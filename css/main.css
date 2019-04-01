@@ -1,0 +1,112 @@
+h1 {
+    text-align: center;
+}
+
+.jumbotron {
+    margin-top: 30px;
+    background-color: #47596b;
+    color: #e6f2ff;
+    width: 101%;
+}
+
+.footer {
+
+    background-color: #257425;
+    border-radius: 5px;
+    padding-left: 5px;
+    margin-top: 10px;
+    width: 101%;
+
+}
+
+.nav {
+
+    background-color: #d8f3d8	;
+    padding-top: 30px;
+    height: 100%;
+    border-radius: 10px;
+}
+
+
+
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+img {
+    width: 20%;
+    height: auto;
+}
+
+
+
+#omnie h3 {
+    margin-top: 10px;
+    margin-left: 25px;
+}
+
+#omnie img {
+    margin-right: 15px;
+    margin-top: 10px;
+
+}
+
+.col-sm-9 {
+    background-color: #9fdf9f;
+    border-radius: 15px;
+}
+
+.col-sm-4 {
+
+    margin-top: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 15px;
+
+}
+
+.col-sm-4 #kursy {
+    color: #3f0000;
+    background-color: #64ce64;
+    height: 100%;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.col-sm-4 #umiejetnosci {
+    color: #6f0015;
+    background-color: #3dc23d;
+    height: 100%;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+
+.col-sm-4 #zainteresowania {
+    color: #9f0030;
+    background-color: #319b31;
+    height: 100%;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+
+
+.col-sm-12 {
+    margin-bottom: 5px;
+    padding-bottom: 15px;
+    border-radius: 15px;
+
+}
+
+.nav ul {
+    list-style-type: square;
+
+}
+
+.row {
+    margin-left: auto;
+    margin-right: auto;
+  
+}
